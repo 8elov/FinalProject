@@ -1,0 +1,15 @@
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/bin/Debug/net6.0/App
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/bin/Debug/net6.0/App.deps.json
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/bin/Debug/net6.0/App.runtimeconfig.json
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/bin/Debug/net6.0/App.dll
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/bin/Debug/net6.0/App.pdb
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.dll
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/refint/App.dll
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.pdb
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+/Users/nikitabelov/Desktop/HomeWork/FinalProject/App/obj/Debug/net6.0/ref/App.dll
